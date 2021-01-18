@@ -1,4 +1,4 @@
-# L1T Stack
+# 🔥 L1T Stack
 
 Liquid, 11ty, Tailwind stack.
 
