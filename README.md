@@ -73,14 +73,29 @@ I've chosen not to do this as it causes the site to zoom in frequently while tap
 - [liquid](https://liquidjs.com)
 - [nvm](https://github.com/nvm-sh/nvm)
 
+## 👾 Icons
+
+Icons and hero image made using [Figma](https://www.figma.com).
+
+[Design Document](#LINK_HERE)
+
+## 🌎 Hosting
+
+- CI & Hosting on [Netlify](https://www.netlify.com).
+- [GoSquared](https://www.gosquared.com) analytics added as post processing step in Netlify.
+
 ## 🗺 Roadmap
 
 - [ ] replace name in readme
-- [ ] add url to Lighthouse in Accessibility
-- [ ] add url to WAVE in Accessibility
 - [ ] update site name in `./src/_data/site.js`
 - [ ] add apple touch icon to `./src/assets`
 - [ ] add favicon to `./src/assets`
+- [ ] add figma doc link to readme
+- [ ] deploy site
+- [ ] add deploy badge to readme
+- [ ] add analytics & update readme
+- [ ] add url to Lighthouse in Accessibility
+- [ ] add url to WAVE in Accessibility
 
 ---
 
