@@ -1,5 +1,5 @@
 {
-  "name": "L1T_STACK",
+  "name": "l1t_stack",
   "version": "1.0.0",
   "description": "Liquid, 11ty, Tailwind stack",
   "scripts": {
